@@ -47,5 +47,12 @@
     </div>
 
     {% include analytics.html %}
+    <script type="text/javascript" src="//unpkg.com/microlinkjs@latest"></script>
+    <script>
+      document.addEventListener("DOMContentLoaded", function(event) {
+        microlink('.card-preview', {rounded: true})
+        anchors.add();
+      });
+    </script>
   </body>
 </html>
