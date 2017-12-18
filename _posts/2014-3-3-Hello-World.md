@@ -2,6 +2,7 @@
 layout: post
 title: You're up and running!
 ---
+[](https://blog.codinghorror.com/computers-are-lousy-random-number-generators){:.card-preview}
 
 Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
 
