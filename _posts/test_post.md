@@ -1,1 +1,1 @@
-[](https://blog.codinghorror.com/computers-are-lousy-random-number-generators){:.card-preview}
+[](https://medium.freecodecamp.org/how-teams-get-microservices-wrong-from-the-start-51777c99c059){:.card-preview}
